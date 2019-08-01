@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gdpr_window_title">Personalize Your Ad Experience</string>
+  <string name="gdpr_window_text">This app personalizes your advertising experience using Appodeal. Appodeal and its partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you. By consenting to this improved ad experience, you`ll see ads that Appodeal and its partners believe are more relevant to you. <a href="https://www.appodeal.com/privacy-policy">Learn more</a>\n\nBy agreeing, you are confirming that you are over the age of 16 and would like a personalized ad experience.</string>
+  <string name="gdpr_window_yes">Yes, I agree</string>
+  <string name="gdpr_window_no">No, thank you</string>
+</resources>
